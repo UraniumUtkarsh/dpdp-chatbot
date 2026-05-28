@@ -213,7 +213,7 @@ http://127.0.0.1:8000
 # Example Queries
 
 * What is consent under DPDP Act?
-* डेटा प्रिंसिपल कौन होता है?
+* डेटा प्रिंसिपल क्या होता है?
 * Explain consent manager.
 * Is there any AI governance guideline?
 * What are obligations of Data Fiduciary?
